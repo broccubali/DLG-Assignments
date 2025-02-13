@@ -1,0 +1,450 @@
+[
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 85,
+    "candidates": [
+      1310,
+      5,
+      50
+    ],
+    "scores": [
+      0.3490888178348541,
+      0.3410397469997406,
+      0.32231995463371277
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 131,
+    "candidates": [
+      1528,
+      632,
+      1182
+    ],
+    "scores": [
+      0.2734750509262085,
+      0.26628220081329346,
+      0.26469963788986206
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 5,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.3970146364075608
+    },
+    "candidates": [
+      1182,
+      69,
+      632
+    ],
+    "scores": [
+      0.14836370944976807,
+      0.142287477850914,
+      0.1401422768831253
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 63,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.47757154117009676
+    },
+    "candidates": [
+      25,
+      927,
+      22
+    ],
+    "scores": [
+      0.5199600458145142,
+      0.5199600458145142,
+      0.4946950674057007
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 21,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.6855718969161151
+    },
+    "candidates": [
+      1248,
+      1128,
+      853
+    ],
+    "scores": [
+      0.318632572889328,
+      0.31334948539733887,
+      0.3012780547142029
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 43,
+    "candidates": [
+      1182,
+      1528,
+      713
+    ],
+    "scores": [
+      0.13921621441841125,
+      0.1374700367450714,
+      0.13605740666389465
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 7,
+    "candidates": [
+      1248,
+      1128,
+      853
+    ],
+    "scores": [
+      0.1810871958732605,
+      0.17691472172737122,
+      0.16818547248840332
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 74,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.5568798977897773
+    },
+    "candidates": [
+      25,
+      927,
+      22
+    ],
+    "scores": [
+      0.43556633591651917,
+      0.43556633591651917,
+      0.4163113534450531
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 116,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.4090795559274542
+    },
+    "candidates": [
+      1182,
+      1528,
+      69
+    ],
+    "scores": [
+      0.31808891892433167,
+      0.314436674118042,
+      0.3138126730918884
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 130,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.31614557970767315
+    },
+    "candidates": [
+      50,
+      25,
+      927
+    ],
+    "scores": [
+      0.42918509244918823,
+      0.418382465839386,
+      0.418382465839386
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 58,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.6722072329545541
+    },
+    "candidates": [
+      1248,
+      1128,
+      853
+    ],
+    "scores": [
+      0.17662933468818665,
+      0.17489254474639893,
+      0.1721331775188446
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 107,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.4334707876669214
+    },
+    "candidates": [
+      1348,
+      1252,
+      3
+    ],
+    "scores": [
+      0.3711598813533783,
+      0.3373711407184601,
+      0.3336656093597412
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 30,
+    "candidates": [
+      25,
+      927,
+      22
+    ],
+    "scores": [
+      0.5526978969573975,
+      0.5526978969573975,
+      0.5235596895217896
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 131,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.4971010046003068
+    },
+    "candidates": [
+      1528,
+      632,
+      1182
+    ],
+    "scores": [
+      0.2734750509262085,
+      0.26628220081329346,
+      0.26469963788986206
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 72,
+    "candidates": [
+      1248,
+      1128,
+      853
+    ],
+    "scores": [
+      0.4244842827320099,
+      0.4228534698486328,
+      0.42009925842285156
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 50,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.40086281528799783
+    },
+    "candidates": [
+      50,
+      25,
+      927
+    ],
+    "scores": [
+      0.42918509244918823,
+      0.418382465839386,
+      0.418382465839386
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 113,
+    "candidates": [
+      1248,
+      1128,
+      853
+    ],
+    "scores": [
+      0.12314742058515549,
+      0.11971095204353333,
+      0.11365121603012085
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 14,
+    "candidates": [
+      1182,
+      69,
+      632
+    ],
+    "scores": [
+      0.07766635715961456,
+      0.06986591219902039,
+      0.06877458095550537
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 3,
+    "candidates": [
+      1182,
+      69,
+      632
+    ],
+    "scores": [
+      0.2858150005340576,
+      0.2815590798854828,
+      0.2785434424877167
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 83,
+    "candidates": [
+      50,
+      25,
+      927
+    ],
+    "scores": [
+      0.42918509244918823,
+      0.418382465839386,
+      0.418382465839386
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 48,
+    "candidates": [
+      25,
+      927,
+      1415
+    ],
+    "scores": [
+      0.4865196645259857,
+      0.4865196645259857,
+      0.45594608783721924
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 70,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.6260136805775087
+    },
+    "candidates": [
+      25,
+      927,
+      1415
+    ],
+    "scores": [
+      0.5153723955154419,
+      0.5153723955154419,
+      0.5128394961357117
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 65,
+    "candidates": [
+      25,
+      927,
+      50
+    ],
+    "scores": [
+      0.45469680428504944,
+      0.45469680428504944,
+      0.4405774474143982
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 110,
+    "candidates": [
+      1248,
+      1128,
+      853
+    ],
+    "scores": [
+      0.40089571475982666,
+      0.396599143743515,
+      0.3865692615509033
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 115,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.6087553507859151
+    },
+    "candidates": [
+      1182,
+      69,
+      1528
+    ],
+    "scores": [
+      0.3152974843978882,
+      0.310726523399353,
+      0.31069907546043396
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 97,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.4821456141229575
+    },
+    "candidates": [
+      50,
+      25,
+      927
+    ],
+    "scores": [
+      0.42918509244918823,
+      0.418382465839386,
+      0.418382465839386
+    ]
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 19,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.6337211045028949
+    },
+    "candidates": [
+      1415,
+      25,
+      927
+    ],
+    "scores": [
+      0.5675269961357117,
+      0.4960024952888489,
+      0.4960024952888489
+    ]
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 56,
+    "candidates": [
+      25,
+      927,
+      22
+    ],
+    "scores": [
+      0.56846684217453,
+      0.56846684217453,
+      0.531694769859314
+    ]
+  }
+]

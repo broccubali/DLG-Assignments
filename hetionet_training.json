@@ -1,0 +1,240 @@
+[
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 85,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 131,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 5,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.3970146364075608
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 63,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.47757154117009676
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 21,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.6855718969161151
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 43,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 7,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 74,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.5568798977897773
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 116,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.4090795559274542
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 130,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.31614557970767315
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 58,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.6722072329545541
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 107,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.4334707876669214
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 30,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 131,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.4971010046003068
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 72,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 50,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.40086281528799783
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 113,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 14,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 3,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 83,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 48,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 70,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.6260136805775087
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 65,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 110,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 115,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.6087553507859151
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 97,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.4821456141229575
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_narrowed",
+    "disease_id": 19,
+    "criteria": {
+      "avoid_side_effects": true,
+      "side_effect_threshold": 0.6337211045028949
+    },
+    "eval_metric": "Hits@10"
+  },
+  {
+    "type": "alternate_drug_global",
+    "disease_id": 56,
+    "criteria": {
+      "exclude_direct": true
+    },
+    "eval_metric": "NDCG@10"
+  }
+]
