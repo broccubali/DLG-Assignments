@@ -1,0 +1,352 @@
+[
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "635",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0649", "4570", "0444"],
+		"scores": [140.4273223876953, 123.7254638671875, 121.9820785522461]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "1686",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["1057", "0819", "0981"],
+		"scores": [73.01969909667969, 70.13851928710938, 67.67576599121094]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "3393",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0227", "8816", "0691"],
+		"scores": [86.75582122802734, 84.899658203125, 84.67581939697266]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "2531",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0570", "8877", "0851"],
+		"scores": [125.78475952148438, 122.1728286743164, 121.5057601928711]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "184",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["1394", "0290", "0272"],
+		"scores": [253.45849609375, 251.58657836914062, 242.83041381835938]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "2394",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0488", "0958", "0851"],
+		"scores": [331.10638427734375, 311.4382629394531, 292.6111145019531]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "10763",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["4861", "0661", "0594"],
+		"scores": [20.27010726928711, 19.725231170654297, 10.709600448608398]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "219",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0718", "0570", "9028"],
+		"scores": [259.8481750488281, 256.6205749511719, 247.83363342285156]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "3310",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0764", "0455", "1260"],
+		"scores": [229.6890869140625, 229.1200714111328, 228.3607177734375]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "13189",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["1032", "0851", "1260"],
+		"scores": [281.89263916015625, 262.6251525878906, 247.68455505371094]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "8577",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0795", "1250", "0993"],
+		"scores": [265.45538330078125, 261.92425537109375, 252.21302795410156]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "418",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0764", "0993", "0806"],
+		"scores": [204.05258178710938, 196.9937286376953, 189.71917724609375]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "1936",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0227", "0973", "0158"],
+		"scores": [269.5682067871094, 253.05296325683594, 246.5885009765625]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "12236",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["6795", "0735", "1183"],
+		"scores": [194.750732421875, 186.27239990234375, 174.87188720703125]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "10283",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0665", "6699", "8866"],
+		"scores": [204.1898193359375, 203.85418701171875, 195.43780517578125]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "11476",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["1077", "0481", "0258"],
+		"scores": [185.1834716796875, 176.33250427246094, 173.85833740234375]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "12361",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0900", "0593", "8834"],
+		"scores": [251.3524932861328, 246.97764587402344, 241.87435913085938]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "1612",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["1185", "0481", "0947"],
+		"scores": [263.41082763671875, 256.0657653808594, 255.9528350830078]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "1826",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["6218", "1351", "0347"],
+		"scores": [158.06680297851562, 153.4898681640625, 151.68125915527344]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "7148",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0993", "0995", "0873"],
+		"scores": [129.7762908935547, 124.55563354492188, 124.50579833984375]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "2841",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0455", "0764", "1223"],
+		"scores": [61.32394790649414, 57.09721374511719, 54.37769317626953]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "363",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0958", "0970", "0491"],
+		"scores": [318.6829833984375, 314.73077392578125, 311.015869140625]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "3083",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["1223", "1656", "6209"],
+		"scores": [169.77325439453125, 158.48855590820312, 133.3345184326172]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "6364",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0661", "1261", "0593"],
+		"scores": [165.06222534179688, 149.7288818359375, 144.95814514160156]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "9352",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["8882", "0412", "0491"],
+		"scores": [184.8825225830078, 180.80557250976562, 178.23333740234375]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "1793",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0851", "0488", "1078"],
+		"scores": [295.2314147949219, 276.265625, 270.3970031738281]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "8893",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["2300", "1047", "0799"],
+		"scores": [208.08868408203125, 198.74298095703125, 187.8645477294922]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "1319",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["1005", "1057", "1168"],
+		"scores": [245.6055145263672, 226.1981201171875, 223.4552459716797]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "9970",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0397", "0865", "0191"],
+		"scores": [180.60861206054688, 179.3721160888672, 176.3752899169922]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "10534",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0305", "0526", "4930"],
+		"scores": [167.16360473632812, 151.2158203125, 150.3805389404297]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "12930",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0421", "0756", "0642"],
+		"scores": [175.1353759765625, 164.00799560546875, 150.72222900390625]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "1781",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0654", "0932", "0851"],
+		"scores": [244.44715881347656, 232.48304748535156, 232.3862762451172]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "9074",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0250", "0455", "0993"],
+		"scores": [122.4191665649414, 113.45565795898438, 110.70116424560547]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "1324",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0317", "0444", "0642"],
+		"scores": [299.2734069824219, 275.2440185546875, 275.0822448730469]
+	},
+	{
+		"type": "alternate_drug_global",
+		"disease_id": "9008",
+		"criteria": {
+			"avoid_side_effects": true,
+			"side_effect_threshold": 0.3970146364075608
+		},
+		"candidates": ["0995", "0873", "0324"],
+		"scores": [148.68382263183594, 141.80374145507812, 132.80316162109375]
+	}
+]
