@@ -1,0 +1,1202 @@
+[
+    {
+        "ticker": "GOOGL",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-03-01",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-03-08",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-03-15",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-03-22",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-03-29",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-04-05",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-04-12",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-04-19",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-04-26",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-05-03",
+        "predicted_open": null,
+        "predicted_high": null,
+        "predicted_low": null,
+        "predicted_close": null,
+        "predicted_volume": null,
+        "eval_metric": "MAPE"
+    }
+]

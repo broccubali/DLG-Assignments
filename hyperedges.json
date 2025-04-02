@@ -1,0 +1,38 @@
+{
+    "Tech": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ],
+    "Finance": [
+        "JPM",
+        "BAC",
+        "C"
+    ],
+    "Healthcare": [
+        "JNJ",
+        "PFE",
+        "MRK"
+    ],
+    "Energy": [
+        "XOM",
+        "CVX"
+    ],
+    "Consumer": [
+        "WMT",
+        "PG",
+        "KO"
+    ],
+    "Industrials": [
+        "BA",
+        "CAT"
+    ],
+    "Communications": [
+        "VZ",
+        "T"
+    ],
+    "Utilities": [
+        "DUK"
+    ]
+}
