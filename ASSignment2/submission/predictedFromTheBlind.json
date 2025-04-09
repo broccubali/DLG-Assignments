@@ -1,0 +1,1202 @@
+[
+    {
+        "ticker": "GOOGL",
+        "date": "2023-03-01",
+        "predicted_open": 87.29524576020822,
+        "predicted_high": 87.74281170114216,
+        "predicted_low": 87.07152210193077,
+        "predicted_close": 87.76804580688477,
+        "predicted_volume": 20886870.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-03-08",
+        "predicted_open": 87.29524576020822,
+        "predicted_high": 87.74281170114216,
+        "predicted_low": 87.07152210193077,
+        "predicted_close": 87.76804580688477,
+        "predicted_volume": 20886870.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-03-15",
+        "predicted_open": 87.29524576020822,
+        "predicted_high": 87.74281170114216,
+        "predicted_low": 87.07152210193077,
+        "predicted_close": 87.76804580688477,
+        "predicted_volume": 20886870.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-03-22",
+        "predicted_open": 87.29524576020822,
+        "predicted_high": 87.74281170114216,
+        "predicted_low": 87.07152210193077,
+        "predicted_close": 87.76804580688477,
+        "predicted_volume": 20886870.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-03-29",
+        "predicted_open": 87.29524576020822,
+        "predicted_high": 87.74281170114216,
+        "predicted_low": 87.07152210193077,
+        "predicted_close": 87.76804580688477,
+        "predicted_volume": 20886870.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-04-05",
+        "predicted_open": 87.29524576020822,
+        "predicted_high": 87.74281170114216,
+        "predicted_low": 87.07152210193077,
+        "predicted_close": 87.76804580688477,
+        "predicted_volume": 20886870.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-04-12",
+        "predicted_open": 87.29524576020822,
+        "predicted_high": 87.74281170114216,
+        "predicted_low": 87.07152210193077,
+        "predicted_close": 87.76804580688477,
+        "predicted_volume": 20886870.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-04-19",
+        "predicted_open": 87.29524576020822,
+        "predicted_high": 87.74281170114216,
+        "predicted_low": 87.07152210193077,
+        "predicted_close": 87.76804580688477,
+        "predicted_volume": 20886870.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-04-26",
+        "predicted_open": 87.29524576020822,
+        "predicted_high": 87.74281170114216,
+        "predicted_low": 87.07152210193077,
+        "predicted_close": 87.76804580688477,
+        "predicted_volume": 20886870.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "GOOGL",
+        "date": "2023-05-03",
+        "predicted_open": 87.29524576020822,
+        "predicted_high": 87.74281170114216,
+        "predicted_low": 87.07152210193077,
+        "predicted_close": 87.76804580688477,
+        "predicted_volume": 20886870.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-03-01",
+        "predicted_open": 232.07493379402058,
+        "predicted_high": 235.56237043843757,
+        "predicted_low": 229.1791706029566,
+        "predicted_close": 231.00166412353516,
+        "predicted_volume": 29812683.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-03-08",
+        "predicted_open": 232.07493379402058,
+        "predicted_high": 235.56237043843757,
+        "predicted_low": 229.1791706029566,
+        "predicted_close": 231.00166412353516,
+        "predicted_volume": 29812683.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-03-15",
+        "predicted_open": 232.07493379402058,
+        "predicted_high": 235.56237043843757,
+        "predicted_low": 229.1791706029566,
+        "predicted_close": 231.00166412353516,
+        "predicted_volume": 29812683.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-03-22",
+        "predicted_open": 232.07493379402058,
+        "predicted_high": 235.56237043843757,
+        "predicted_low": 229.1791706029566,
+        "predicted_close": 231.00166412353516,
+        "predicted_volume": 29812683.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-03-29",
+        "predicted_open": 232.07493379402058,
+        "predicted_high": 235.56237043843757,
+        "predicted_low": 229.1791706029566,
+        "predicted_close": 231.00166412353516,
+        "predicted_volume": 29812683.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-04-05",
+        "predicted_open": 232.07493379402058,
+        "predicted_high": 235.56237043843757,
+        "predicted_low": 229.1791706029566,
+        "predicted_close": 231.00166412353516,
+        "predicted_volume": 29812683.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-04-12",
+        "predicted_open": 232.07493379402058,
+        "predicted_high": 235.56237043843757,
+        "predicted_low": 229.1791706029566,
+        "predicted_close": 231.00166412353516,
+        "predicted_volume": 29812683.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-04-19",
+        "predicted_open": 232.07493379402058,
+        "predicted_high": 235.56237043843757,
+        "predicted_low": 229.1791706029566,
+        "predicted_close": 231.00166412353516,
+        "predicted_volume": 29812683.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-04-26",
+        "predicted_open": 232.07493379402058,
+        "predicted_high": 235.56237043843757,
+        "predicted_low": 229.1791706029566,
+        "predicted_close": 231.00166412353516,
+        "predicted_volume": 29812683.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MSFT",
+        "date": "2023-05-03",
+        "predicted_open": 232.07493379402058,
+        "predicted_high": 235.56237043843757,
+        "predicted_low": 229.1791706029566,
+        "predicted_close": 231.00166412353516,
+        "predicted_volume": 29812683.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-03-01",
+        "predicted_open": 83.56086863036784,
+        "predicted_high": 84.65817438406488,
+        "predicted_low": 82.80967276647664,
+        "predicted_close": 83.84066398620605,
+        "predicted_volume": 17000902.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-03-08",
+        "predicted_open": 83.56086863036784,
+        "predicted_high": 84.65817438406488,
+        "predicted_low": 82.80967276647664,
+        "predicted_close": 83.84066398620605,
+        "predicted_volume": 17000902.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-03-15",
+        "predicted_open": 83.56086863036784,
+        "predicted_high": 84.65817438406488,
+        "predicted_low": 82.80967276647664,
+        "predicted_close": 83.84066398620605,
+        "predicted_volume": 17000902.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-03-22",
+        "predicted_open": 83.56086863036784,
+        "predicted_high": 84.65817438406488,
+        "predicted_low": 82.80967276647664,
+        "predicted_close": 83.84066398620605,
+        "predicted_volume": 17000902.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-03-29",
+        "predicted_open": 83.56086863036784,
+        "predicted_high": 84.65817438406488,
+        "predicted_low": 82.80967276647664,
+        "predicted_close": 83.84066398620605,
+        "predicted_volume": 17000902.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-04-05",
+        "predicted_open": 83.56086863036784,
+        "predicted_high": 84.65817438406488,
+        "predicted_low": 82.80967276647664,
+        "predicted_close": 83.84066398620605,
+        "predicted_volume": 17000902.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-04-12",
+        "predicted_open": 83.56086863036784,
+        "predicted_high": 84.65817438406488,
+        "predicted_low": 82.80967276647664,
+        "predicted_close": 83.84066398620605,
+        "predicted_volume": 17000902.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-04-19",
+        "predicted_open": 83.56086863036784,
+        "predicted_high": 84.65817438406488,
+        "predicted_low": 82.80967276647664,
+        "predicted_close": 83.84066398620605,
+        "predicted_volume": 17000902.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-04-26",
+        "predicted_open": 83.56086863036784,
+        "predicted_high": 84.65817438406488,
+        "predicted_low": 82.80967276647664,
+        "predicted_close": 83.84066398620605,
+        "predicted_volume": 17000902.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "AMZN",
+        "date": "2023-05-03",
+        "predicted_open": 83.56086863036784,
+        "predicted_high": 84.65817438406488,
+        "predicted_low": 82.80967276647664,
+        "predicted_close": 83.84066398620605,
+        "predicted_volume": 17000902.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-03-01",
+        "predicted_open": 30.70842154786326,
+        "predicted_high": 30.90591028716811,
+        "predicted_low": 30.546362806917003,
+        "predicted_close": 30.81628746032715,
+        "predicted_volume": 42187159.03,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-03-08",
+        "predicted_open": 30.70842154786326,
+        "predicted_high": 30.90591028716811,
+        "predicted_low": 30.546362806917003,
+        "predicted_close": 30.81628746032715,
+        "predicted_volume": 42187159.03,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-03-15",
+        "predicted_open": 30.70842154786326,
+        "predicted_high": 30.90591028716811,
+        "predicted_low": 30.546362806917003,
+        "predicted_close": 30.81628746032715,
+        "predicted_volume": 42187159.03,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-03-22",
+        "predicted_open": 30.70842154786326,
+        "predicted_high": 30.90591028716811,
+        "predicted_low": 30.546362806917003,
+        "predicted_close": 30.81628746032715,
+        "predicted_volume": 42187159.03,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-03-29",
+        "predicted_open": 30.70842154786326,
+        "predicted_high": 30.90591028716811,
+        "predicted_low": 30.546362806917003,
+        "predicted_close": 30.81628746032715,
+        "predicted_volume": 42187159.03,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-04-05",
+        "predicted_open": 30.70842154786326,
+        "predicted_high": 30.90591028716811,
+        "predicted_low": 30.546362806917003,
+        "predicted_close": 30.81628746032715,
+        "predicted_volume": 42187159.03,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-04-12",
+        "predicted_open": 30.70842154786326,
+        "predicted_high": 30.90591028716811,
+        "predicted_low": 30.546362806917003,
+        "predicted_close": 30.81628746032715,
+        "predicted_volume": 42187159.03,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-04-19",
+        "predicted_open": 30.70842154786326,
+        "predicted_high": 30.90591028716811,
+        "predicted_low": 30.546362806917003,
+        "predicted_close": 30.81628746032715,
+        "predicted_volume": 42187159.03,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-04-26",
+        "predicted_open": 30.70842154786326,
+        "predicted_high": 30.90591028716811,
+        "predicted_low": 30.546362806917003,
+        "predicted_close": 30.81628746032715,
+        "predicted_volume": 42187159.03,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "BAC",
+        "date": "2023-05-03",
+        "predicted_open": 30.70842154786326,
+        "predicted_high": 30.90591028716811,
+        "predicted_low": 30.546362806917003,
+        "predicted_close": 30.81628746032715,
+        "predicted_volume": 42187159.03,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-03-01",
+        "predicted_open": 40.702008554394936,
+        "predicted_high": 41.09134657429482,
+        "predicted_low": 40.24190132416569,
+        "predicted_close": 40.906442642211914,
+        "predicted_volume": 25147962.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-03-08",
+        "predicted_open": 40.702008554394936,
+        "predicted_high": 41.09134657429482,
+        "predicted_low": 40.24190132416569,
+        "predicted_close": 40.906442642211914,
+        "predicted_volume": 25147962.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-03-15",
+        "predicted_open": 40.702008554394936,
+        "predicted_high": 41.09134657429482,
+        "predicted_low": 40.24190132416569,
+        "predicted_close": 40.906442642211914,
+        "predicted_volume": 25147962.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-03-22",
+        "predicted_open": 40.702008554394936,
+        "predicted_high": 41.09134657429482,
+        "predicted_low": 40.24190132416569,
+        "predicted_close": 40.906442642211914,
+        "predicted_volume": 25147962.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-03-29",
+        "predicted_open": 40.702008554394936,
+        "predicted_high": 41.09134657429482,
+        "predicted_low": 40.24190132416569,
+        "predicted_close": 40.906442642211914,
+        "predicted_volume": 25147962.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-04-05",
+        "predicted_open": 40.702008554394936,
+        "predicted_high": 41.09134657429482,
+        "predicted_low": 40.24190132416569,
+        "predicted_close": 40.906442642211914,
+        "predicted_volume": 25147962.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-04-12",
+        "predicted_open": 40.702008554394936,
+        "predicted_high": 41.09134657429482,
+        "predicted_low": 40.24190132416569,
+        "predicted_close": 40.906442642211914,
+        "predicted_volume": 25147962.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-04-19",
+        "predicted_open": 40.702008554394936,
+        "predicted_high": 41.09134657429482,
+        "predicted_low": 40.24190132416569,
+        "predicted_close": 40.906442642211914,
+        "predicted_volume": 25147962.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-04-26",
+        "predicted_open": 40.702008554394936,
+        "predicted_high": 41.09134657429482,
+        "predicted_low": 40.24190132416569,
+        "predicted_close": 40.906442642211914,
+        "predicted_volume": 25147962.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "C",
+        "date": "2023-05-03",
+        "predicted_open": 40.702008554394936,
+        "predicted_high": 41.09134657429482,
+        "predicted_low": 40.24190132416569,
+        "predicted_close": 40.906442642211914,
+        "predicted_volume": 25147962.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-03-01",
+        "predicted_open": 45.537862997323415,
+        "predicted_high": 45.8467564252539,
+        "predicted_low": 45.16295166897664,
+        "predicted_close": 45.58911098480225,
+        "predicted_volume": 20224220.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-03-08",
+        "predicted_open": 45.537862997323415,
+        "predicted_high": 45.8467564252539,
+        "predicted_low": 45.16295166897664,
+        "predicted_close": 45.58911098480225,
+        "predicted_volume": 20224220.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-03-15",
+        "predicted_open": 45.537862997323415,
+        "predicted_high": 45.8467564252539,
+        "predicted_low": 45.16295166897664,
+        "predicted_close": 45.58911098480225,
+        "predicted_volume": 20224220.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-03-22",
+        "predicted_open": 45.537862997323415,
+        "predicted_high": 45.8467564252539,
+        "predicted_low": 45.16295166897664,
+        "predicted_close": 45.58911098480225,
+        "predicted_volume": 20224220.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-03-29",
+        "predicted_open": 45.537862997323415,
+        "predicted_high": 45.8467564252539,
+        "predicted_low": 45.16295166897664,
+        "predicted_close": 45.58911098480225,
+        "predicted_volume": 20224220.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-04-05",
+        "predicted_open": 45.537862997323415,
+        "predicted_high": 45.8467564252539,
+        "predicted_low": 45.16295166897664,
+        "predicted_close": 45.58911098480225,
+        "predicted_volume": 20224220.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-04-12",
+        "predicted_open": 45.537862997323415,
+        "predicted_high": 45.8467564252539,
+        "predicted_low": 45.16295166897664,
+        "predicted_close": 45.58911098480225,
+        "predicted_volume": 20224220.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-04-19",
+        "predicted_open": 45.537862997323415,
+        "predicted_high": 45.8467564252539,
+        "predicted_low": 45.16295166897664,
+        "predicted_close": 45.58911098480225,
+        "predicted_volume": 20224220.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-04-26",
+        "predicted_open": 45.537862997323415,
+        "predicted_high": 45.8467564252539,
+        "predicted_low": 45.16295166897664,
+        "predicted_close": 45.58911098480225,
+        "predicted_volume": 20224220.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PFE",
+        "date": "2023-05-03",
+        "predicted_open": 45.537862997323415,
+        "predicted_high": 45.8467564252539,
+        "predicted_low": 45.16295166897664,
+        "predicted_close": 45.58911098480225,
+        "predicted_volume": 20224220.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-03-01",
+        "predicted_open": 104.48627686425509,
+        "predicted_high": 105.64653213645698,
+        "predicted_low": 103.50242942792919,
+        "predicted_close": 104.34513938903808,
+        "predicted_volume": 9933948.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-03-08",
+        "predicted_open": 104.48627686425509,
+        "predicted_high": 105.64653213645698,
+        "predicted_low": 103.50242942792919,
+        "predicted_close": 104.34513938903808,
+        "predicted_volume": 9933948.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-03-15",
+        "predicted_open": 104.48627686425509,
+        "predicted_high": 105.64653213645698,
+        "predicted_low": 103.50242942792919,
+        "predicted_close": 104.34513938903808,
+        "predicted_volume": 9933948.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-03-22",
+        "predicted_open": 104.48627686425509,
+        "predicted_high": 105.64653213645698,
+        "predicted_low": 103.50242942792919,
+        "predicted_close": 104.34513938903808,
+        "predicted_volume": 9933948.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-03-29",
+        "predicted_open": 104.48627686425509,
+        "predicted_high": 105.64653213645698,
+        "predicted_low": 103.50242942792919,
+        "predicted_close": 104.34513938903808,
+        "predicted_volume": 9933948.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-04-05",
+        "predicted_open": 104.48627686425509,
+        "predicted_high": 105.64653213645698,
+        "predicted_low": 103.50242942792919,
+        "predicted_close": 104.34513938903808,
+        "predicted_volume": 9933948.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-04-12",
+        "predicted_open": 104.48627686425509,
+        "predicted_high": 105.64653213645698,
+        "predicted_low": 103.50242942792919,
+        "predicted_close": 104.34513938903808,
+        "predicted_volume": 9933948.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-04-19",
+        "predicted_open": 104.48627686425509,
+        "predicted_high": 105.64653213645698,
+        "predicted_low": 103.50242942792919,
+        "predicted_close": 104.34513938903808,
+        "predicted_volume": 9933948.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-04-26",
+        "predicted_open": 104.48627686425509,
+        "predicted_high": 105.64653213645698,
+        "predicted_low": 103.50242942792919,
+        "predicted_close": 104.34513938903808,
+        "predicted_volume": 9933948.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "MRK",
+        "date": "2023-05-03",
+        "predicted_open": 104.48627686425509,
+        "predicted_high": 105.64653213645698,
+        "predicted_low": 103.50242942792919,
+        "predicted_close": 104.34513938903808,
+        "predicted_volume": 9933948.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-03-01",
+        "predicted_open": 163.62235624354912,
+        "predicted_high": 165.08680430300782,
+        "predicted_low": 163.03917071806833,
+        "predicted_close": 163.9583367919922,
+        "predicted_volume": 21883636.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-03-08",
+        "predicted_open": 163.62235624354912,
+        "predicted_high": 165.08680430300782,
+        "predicted_low": 163.03917071806833,
+        "predicted_close": 163.9583367919922,
+        "predicted_volume": 21883636.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-03-15",
+        "predicted_open": 163.62235624354912,
+        "predicted_high": 165.08680430300782,
+        "predicted_low": 163.03917071806833,
+        "predicted_close": 163.9583367919922,
+        "predicted_volume": 21883636.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-03-22",
+        "predicted_open": 163.62235624354912,
+        "predicted_high": 165.08680430300782,
+        "predicted_low": 163.03917071806833,
+        "predicted_close": 163.9583367919922,
+        "predicted_volume": 21883636.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-03-29",
+        "predicted_open": 163.62235624354912,
+        "predicted_high": 165.08680430300782,
+        "predicted_low": 163.03917071806833,
+        "predicted_close": 163.9583367919922,
+        "predicted_volume": 21883636.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-04-05",
+        "predicted_open": 163.62235624354912,
+        "predicted_high": 165.08680430300782,
+        "predicted_low": 163.03917071806833,
+        "predicted_close": 163.9583367919922,
+        "predicted_volume": 21883636.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-04-12",
+        "predicted_open": 163.62235624354912,
+        "predicted_high": 165.08680430300782,
+        "predicted_low": 163.03917071806833,
+        "predicted_close": 163.9583367919922,
+        "predicted_volume": 21883636.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-04-19",
+        "predicted_open": 163.62235624354912,
+        "predicted_high": 165.08680430300782,
+        "predicted_low": 163.03917071806833,
+        "predicted_close": 163.9583367919922,
+        "predicted_volume": 21883636.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-04-26",
+        "predicted_open": 163.62235624354912,
+        "predicted_high": 165.08680430300782,
+        "predicted_low": 163.03917071806833,
+        "predicted_close": 163.9583367919922,
+        "predicted_volume": 21883636.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CVX",
+        "date": "2023-05-03",
+        "predicted_open": 163.62235624354912,
+        "predicted_high": 165.08680430300782,
+        "predicted_low": 163.03917071806833,
+        "predicted_close": 163.9583367919922,
+        "predicted_volume": 21883636.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-03-01",
+        "predicted_open": 143.94023822885984,
+        "predicted_high": 145.59630936966235,
+        "predicted_low": 143.3344608939011,
+        "predicted_close": 144.08404327392577,
+        "predicted_volume": 30577764.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-03-08",
+        "predicted_open": 143.94023822885984,
+        "predicted_high": 145.59630936966235,
+        "predicted_low": 143.3344608939011,
+        "predicted_close": 144.08404327392577,
+        "predicted_volume": 30577764.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-03-15",
+        "predicted_open": 143.94023822885984,
+        "predicted_high": 145.59630936966235,
+        "predicted_low": 143.3344608939011,
+        "predicted_close": 144.08404327392577,
+        "predicted_volume": 30577764.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-03-22",
+        "predicted_open": 143.94023822885984,
+        "predicted_high": 145.59630936966235,
+        "predicted_low": 143.3344608939011,
+        "predicted_close": 144.08404327392577,
+        "predicted_volume": 30577764.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-03-29",
+        "predicted_open": 143.94023822885984,
+        "predicted_high": 145.59630936966235,
+        "predicted_low": 143.3344608939011,
+        "predicted_close": 144.08404327392577,
+        "predicted_volume": 30577764.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-04-05",
+        "predicted_open": 143.94023822885984,
+        "predicted_high": 145.59630936966235,
+        "predicted_low": 143.3344608939011,
+        "predicted_close": 144.08404327392577,
+        "predicted_volume": 30577764.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-04-12",
+        "predicted_open": 143.94023822885984,
+        "predicted_high": 145.59630936966235,
+        "predicted_low": 143.3344608939011,
+        "predicted_close": 144.08404327392577,
+        "predicted_volume": 30577764.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-04-19",
+        "predicted_open": 143.94023822885984,
+        "predicted_high": 145.59630936966235,
+        "predicted_low": 143.3344608939011,
+        "predicted_close": 144.08404327392577,
+        "predicted_volume": 30577764.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-04-26",
+        "predicted_open": 143.94023822885984,
+        "predicted_high": 145.59630936966235,
+        "predicted_low": 143.3344608939011,
+        "predicted_close": 144.08404327392577,
+        "predicted_volume": 30577764.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "PG",
+        "date": "2023-05-03",
+        "predicted_open": 143.94023822885984,
+        "predicted_high": 145.59630936966235,
+        "predicted_low": 143.3344608939011,
+        "predicted_close": 144.08404327392577,
+        "predicted_volume": 30577764.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-03-01",
+        "predicted_open": 59.75999075984964,
+        "predicted_high": 60.34760747464964,
+        "predicted_low": 58.997105489848515,
+        "predicted_close": 59.7502982711792,
+        "predicted_volume": 16847493.69,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-03-08",
+        "predicted_open": 59.75999075984964,
+        "predicted_high": 60.34760747464964,
+        "predicted_low": 58.997105489848515,
+        "predicted_close": 59.7502982711792,
+        "predicted_volume": 16847493.69,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-03-15",
+        "predicted_open": 59.75999075984964,
+        "predicted_high": 60.34760747464964,
+        "predicted_low": 58.997105489848515,
+        "predicted_close": 59.7502982711792,
+        "predicted_volume": 16847493.69,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-03-22",
+        "predicted_open": 59.75999075984964,
+        "predicted_high": 60.34760747464964,
+        "predicted_low": 58.997105489848515,
+        "predicted_close": 59.7502982711792,
+        "predicted_volume": 16847493.69,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-03-29",
+        "predicted_open": 59.75999075984964,
+        "predicted_high": 60.34760747464964,
+        "predicted_low": 58.997105489848515,
+        "predicted_close": 59.7502982711792,
+        "predicted_volume": 16847493.69,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-04-05",
+        "predicted_open": 59.75999075984964,
+        "predicted_high": 60.34760747464964,
+        "predicted_low": 58.997105489848515,
+        "predicted_close": 59.7502982711792,
+        "predicted_volume": 16847493.69,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-04-12",
+        "predicted_open": 59.75999075984964,
+        "predicted_high": 60.34760747464964,
+        "predicted_low": 58.997105489848515,
+        "predicted_close": 59.7502982711792,
+        "predicted_volume": 16847493.69,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-04-19",
+        "predicted_open": 59.75999075984964,
+        "predicted_high": 60.34760747464964,
+        "predicted_low": 58.997105489848515,
+        "predicted_close": 59.7502982711792,
+        "predicted_volume": 16847493.69,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-04-26",
+        "predicted_open": 59.75999075984964,
+        "predicted_high": 60.34760747464964,
+        "predicted_low": 58.997105489848515,
+        "predicted_close": 59.7502982711792,
+        "predicted_volume": 16847493.69,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "KO",
+        "date": "2023-05-03",
+        "predicted_open": 59.75999075984964,
+        "predicted_high": 60.34760747464964,
+        "predicted_low": 58.997105489848515,
+        "predicted_close": 59.7502982711792,
+        "predicted_volume": 16847493.69,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-03-01",
+        "predicted_open": 229.42951531780184,
+        "predicted_high": 232.71634096585248,
+        "predicted_low": 229.5329450206344,
+        "predicted_close": 232.26911071777343,
+        "predicted_volume": 11305531.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-03-08",
+        "predicted_open": 229.42951531780184,
+        "predicted_high": 232.71634096585248,
+        "predicted_low": 229.5329450206344,
+        "predicted_close": 232.26911071777343,
+        "predicted_volume": 11305531.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-03-15",
+        "predicted_open": 229.42951531780184,
+        "predicted_high": 232.71634096585248,
+        "predicted_low": 229.5329450206344,
+        "predicted_close": 232.26911071777343,
+        "predicted_volume": 11305531.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-03-22",
+        "predicted_open": 229.42951531780184,
+        "predicted_high": 232.71634096585248,
+        "predicted_low": 229.5329450206344,
+        "predicted_close": 232.26911071777343,
+        "predicted_volume": 11305531.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-03-29",
+        "predicted_open": 229.42951531780184,
+        "predicted_high": 232.71634096585248,
+        "predicted_low": 229.5329450206344,
+        "predicted_close": 232.26911071777343,
+        "predicted_volume": 11305531.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-04-05",
+        "predicted_open": 229.42951531780184,
+        "predicted_high": 232.71634096585248,
+        "predicted_low": 229.5329450206344,
+        "predicted_close": 232.26911071777343,
+        "predicted_volume": 11305531.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-04-12",
+        "predicted_open": 229.42951531780184,
+        "predicted_high": 232.71634096585248,
+        "predicted_low": 229.5329450206344,
+        "predicted_close": 232.26911071777343,
+        "predicted_volume": 11305531.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-04-19",
+        "predicted_open": 229.42951531780184,
+        "predicted_high": 232.71634096585248,
+        "predicted_low": 229.5329450206344,
+        "predicted_close": 232.26911071777343,
+        "predicted_volume": 11305531.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-04-26",
+        "predicted_open": 229.42951531780184,
+        "predicted_high": 232.71634096585248,
+        "predicted_low": 229.5329450206344,
+        "predicted_close": 232.26911071777343,
+        "predicted_volume": 11305531.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "CAT",
+        "date": "2023-05-03",
+        "predicted_open": 229.42951531780184,
+        "predicted_high": 232.71634096585248,
+        "predicted_low": 229.5329450206344,
+        "predicted_close": 232.26911071777343,
+        "predicted_volume": 11305531.0,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-03-01",
+        "predicted_open": 16.107570502684997,
+        "predicted_high": 16.19714794348222,
+        "predicted_low": 16.03207164503528,
+        "predicted_close": 16.113150587081908,
+        "predicted_volume": 45136521.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-03-08",
+        "predicted_open": 16.107570502684997,
+        "predicted_high": 16.19714794348222,
+        "predicted_low": 16.03207164503528,
+        "predicted_close": 16.113150587081908,
+        "predicted_volume": 45136521.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-03-15",
+        "predicted_open": 16.107570502684997,
+        "predicted_high": 16.19714794348222,
+        "predicted_low": 16.03207164503528,
+        "predicted_close": 16.113150587081908,
+        "predicted_volume": 45136521.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-03-22",
+        "predicted_open": 16.107570502684997,
+        "predicted_high": 16.19714794348222,
+        "predicted_low": 16.03207164503528,
+        "predicted_close": 16.113150587081908,
+        "predicted_volume": 45136521.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-03-29",
+        "predicted_open": 16.107570502684997,
+        "predicted_high": 16.19714794348222,
+        "predicted_low": 16.03207164503528,
+        "predicted_close": 16.113150587081908,
+        "predicted_volume": 45136521.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-04-05",
+        "predicted_open": 16.107570502684997,
+        "predicted_high": 16.19714794348222,
+        "predicted_low": 16.03207164503528,
+        "predicted_close": 16.113150587081908,
+        "predicted_volume": 45136521.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-04-12",
+        "predicted_open": 16.107570502684997,
+        "predicted_high": 16.19714794348222,
+        "predicted_low": 16.03207164503528,
+        "predicted_close": 16.113150587081908,
+        "predicted_volume": 45136521.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-04-19",
+        "predicted_open": 16.107570502684997,
+        "predicted_high": 16.19714794348222,
+        "predicted_low": 16.03207164503528,
+        "predicted_close": 16.113150587081908,
+        "predicted_volume": 45136521.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-04-26",
+        "predicted_open": 16.107570502684997,
+        "predicted_high": 16.19714794348222,
+        "predicted_low": 16.03207164503528,
+        "predicted_close": 16.113150587081908,
+        "predicted_volume": 45136521.08,
+        "eval_metric": "MAPE"
+    },
+    {
+        "ticker": "T",
+        "date": "2023-05-03",
+        "predicted_open": 16.107570502684997,
+        "predicted_high": 16.19714794348222,
+        "predicted_low": 16.03207164503528,
+        "predicted_close": 16.113150587081908,
+        "predicted_volume": 45136521.08,
+        "eval_metric": "MAPE"
+    }
+]
